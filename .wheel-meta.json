@@ -1,0 +1,22 @@
+{
+  "wheel_id": 960,
+  "structure": "chain",
+  "slug": "theseocompanybrisbane-118",
+  "project": "seo-services-brisbane-glossary-73c37182c9845506885786e751c3796d",
+  "parent_t1_ref": "theseocompanybrisbane-117",
+  "node_role": "feeder",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane glossary",
+  "intended_url": "https://sitesau.github.io/theseocompanybrisbane-118/",
+  "tier": "T2",
+  "writeback_nonce": "ab75bcba760e3fe8",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/seo-services-brisbane-planning-guide-9512568ec675daef80af06640b/",
+      "anchor": "https://aumedia.neocities.org/seo-services-brisbane-planning-guide-9512568ec675daef80af06640b/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
